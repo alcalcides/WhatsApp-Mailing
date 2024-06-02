@@ -1,0 +1,18 @@
+{
+  "name": "zap-mailing",
+  "version": "0.1.0",
+  "description": "poc whatsapp mailing",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "whatsapp"
+  ],
+  "author": "Alcides Augusto Bezerra Neto",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.10.0"
+  }
+}
